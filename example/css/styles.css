@@ -1,0 +1,20 @@
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+input {
+    margin-top: 1rem;
+}
+
+textarea {
+    margin-top: 1rem;
+}
+
+button {
+    margin-top: 1rem;
+}
+
+select {
+    margin-top: 1rem;
+}
